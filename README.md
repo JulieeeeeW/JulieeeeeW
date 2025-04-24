@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, i am Julie Wang.
+i am 20 year old.
+Also, a third-grade student.
+My favorite food is ice cream.
+Nice to meet you!
